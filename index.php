@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo 'Latihan sob';
-        echo 'Tong Lebay jang'
+        echo 'hoyong emam keyeup baseuh'
         ?>
     </body>
 </html>
